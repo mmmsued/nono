@@ -1,12 +1,12 @@
-# No Fire Lava Water
+# NoNo Fire Lava Water
 
 
 **DESCRIPTION:**
-The mod »No Fire Lava Water« (nono) prevents the use of fire, lava and water. This means players cannot place fire or flood the world with lava or water.  
+The mod »NoNo Fire Lava Water« (nono) prevents the use of fire, lava and water. This means players cannot place fire or flood the world with lava or water.  
 
 
 **USE:**
-If »No Fire Lava Water« is installed, you need the privileges »place_fire«, »place_lava« and »place_water« to continue placing fire, lava or water.  
+If »NoNo Fire Lava Water« is installed, you need the privileges »place_fire«, »place_lava« and »place_water« to continue placing fire, lava or water.  
 
 
 **INSTALL:**
