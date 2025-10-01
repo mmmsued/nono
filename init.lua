@@ -5,9 +5,9 @@
 
 local modpath = minetest.get_modpath("nono")
 
-minetest.register_privilege("place_fire", {description = "You can place fire lava.", give_to_singleplayer = false})
-minetest.register_privilege("place_lava", {description = "You can place lava.", give_to_singleplayer = false})
-minetest.register_privilege("place_water", {description = "You can place water.", give_to_singleplayer = false})
+minetest.register_privilege("place_fire", {description = "You can place fire.", give_to_singleplayer = true, give_to_admin = true})
+minetest.register_privilege("place_lava", {description = "You can place lava.", give_to_singleplayer = true, give_to_admin = true})
+minetest.register_privilege("place_water", {description = "You can place water.", give_to_singleplayer = true, give_to_admin = true})
 
 dofile(modpath .. "/no_fire.lua")
 dofile(modpath .. "/no_lava.lua")
